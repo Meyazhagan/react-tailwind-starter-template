@@ -6,6 +6,7 @@ function App() {
       <img
         src="/images/landscape.svg"
         className="absolute h-full w-full object-cover"
+        alt="landscape"
       />
       <div className="inset-0 bg-black opacity-25 absolute" />
       <div className="container mx-auto px-6 md:px-12 relative z-10 flex items-center py-32 xl:py-40">
